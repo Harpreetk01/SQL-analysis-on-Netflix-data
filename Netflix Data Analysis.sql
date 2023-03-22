@@ -58,34 +58,3 @@ select language, round(avg(runtime),2) as Runtime from netflix_original
 group by language
 order by Runtime desc;
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

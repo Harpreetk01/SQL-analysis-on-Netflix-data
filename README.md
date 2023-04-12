@@ -1,4 +1,4 @@
-# Netflix Orignals Data Analysis using SQL
+# Netflix Originals Data Analysis using SQL
 The Netflix original and IMDBScore datasets contain information about which films and genres have a higher IMDBScore. It includes information such as movie, genre ID, runtime, and language.
 
 The dataset has 2 files. The Netflix Originals file contains a total of 6 columns and 500+ rows of data, whereas the Genre file contains 2 columns and 20 rows. The genre file contains the genre ID and genre name, which represent which film relates to which language.
